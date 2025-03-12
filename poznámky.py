@@ -17,3 +17,6 @@ else:
 #Logické operátory and, or či not slouží k tomu, aby se mohl program rozhodnout jestli je to pravda či ne and je k tomu, and slouží k tomu, že když jsou oba příákazy správně tak to bude vědět, že to je pravda, or když je jeden pravda tak to bude vědět, že to je pravda. A not k tomu, aby určil jestli je to pravda a vytvořil negaci u booleanu.
 Příklad:
     cislo == 11 or 
+#gitclone
+#cd
+# git pull
