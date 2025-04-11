@@ -32,33 +32,62 @@ nahodna_vec26 = random.choice(věci)
 nahodna_vec27 = random.choice(věci)
 nahodna_vec28 = random.choice(věci)
 nahodna_vec29 = random.choice(věci)
-nahodna_vec30 = random.choice(věci)
+
 if nahodna_vec == nahodna_vec2 
-    print(f"měli bychom si tuto jinou položku {nahodna_vec21")
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec20}")
 else
-print (f"měli bychom si koupit {nahodna_vec}.")
-print(f"ne, měli bychom si koupit {nahodna_vec2}.")
+    print(f"měli bychom si koupit {nahodna_vec}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec2}.")
 if nahodna_vec3== nahodna_vec4:
-    print(f"měli bychom si tuto jinou položku {nahodna_vec22
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec21}")
 else
-    print (f"měli bychom si koupit {nahodna_vec3
-    print(f"měli bychom si tuto jinou položku {nahodna_vec21")
+    print (f"měli bychom si koupit {nahodna_vec3}")
+    print(f"ne, měli bychom si tuto jinou položku {nahodna_vec4}")
+    
+    if nahodna_vec5 == nahodna_vec6 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec22}")
 else
-print(f"ne, měli bychom si koupit {nahodna_vec4}.")
-if nah
-print (f"měli bychom si koupit {nahodna_vec5}.")
-print(f"ne, měli bychom si koupit {nahodna_vec6}.")
-print (f"měli bychom si koupit {nahodna_vec7}.")
-print(f"ne, měli bychom si koupit {nahodna_vec8}.")
-print (f"měli bychom si koupit {nahodna_vec9}.")
-print(f"ne, měli bychom si koupit {nahodna_vec10}.")
-print (f"měli bychom si koupit {nahodna_vec11}.")
-print(f"ne, měli bychom si koupit {nahodna_vec12}.")
-print (f"měli bychom si koupit {nahodna_vec13}.")
-print(f"ne, měli bychom si koupit {nahodna_vec14}.")
-print (f"měli bychom si koupit {nahodna_vec15}.")
-print(f"ne,měli bychom si koupit {nahodna_vec16}.")
-print (f"měli bychom si koupit {nahodna_vec17}.")
-print(f"ne, měli bychom si koupit {nahodna_vec18}.")
-print (f"měli bychom si koupit {nahodna_vec19}.")
-print(f"ne, měli bychom si koupit {nahodna_vec20}.")
+    print(f"měli bychom si koupit {nahodna_vec5}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec6}.")
+
+    if nahodna_vec7 == nahodna_vec8 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec23}")
+else
+    print(f"měli bychom si koupit {nahodna_vec7}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec8}.")
+
+    if nahodna_vec9 == nahodna_vec10 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec24}")
+else
+    print(f"měli bychom si koupit {nahodna_vec9}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec10}.")
+
+    if nahodna_vec11 == nahodna_vec12 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec25}")
+else
+    print(f"měli bychom si koupit {nahodna_vec11}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec12}.")
+
+    if nahodna_vec13 == nahodna_vec14 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec26}")
+else
+    print(f"měli bychom si koupit {nahodna_vec13}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec14}.")
+
+    if nahodna_vec == nahodna_vec2 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec27}")
+else
+    print(f"měli bychom si koupit {nahodna_vec15}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec16}.")
+
+    if nahodna_vec17 == nahodna_vec18 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec28}")
+else
+    print(f"měli bychom si koupit {nahodna_vec17}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec18}.")
+
+    if nahodna_vec19 == nahodna_vec20 
+    print(f"měli bychom si koupit tuto jinou položku {nahodna_vec29}")
+else
+    print(f"měli bychom si koupit {nahodna_vec19}.")
+    print(f"ne, měli bychom si koupit {nahodna_vec20}.")
